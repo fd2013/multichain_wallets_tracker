@@ -45,7 +45,7 @@ pip install python-telegram-bot aiohttp
 ## Usage
 1. Start the bot:
 ```bash
-python bot.py
+python telegram-wallets-tracker-bot.py
 ```
 
 2. Telegram Commands:
