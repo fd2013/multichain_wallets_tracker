@@ -1,4 +1,4 @@
-# Blockchain Transaction Bot
+# Multichain Wallets Tracker Bot
 
 A Telegram bot that fetches the latest transaction for wallet addresses across multiple blockchain networks.
 
