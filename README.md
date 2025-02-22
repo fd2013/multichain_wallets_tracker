@@ -1,6 +1,6 @@
 # Multichain Wallets Tracker Bot
 
-A Telegram bot that fetches the latest transaction for wallet addresses across multiple blockchain networks.
+This Python script sets up a Telegram bot that allows users to fetch the latest transaction for a given wallet address on various blockchain networks (Ethereum, Binance Smart Chain, Polygon, Avalanche, Arbitrum, Optimism, and Fantom). The bot uses the respective blockchain explorers' APIs to retrieve the transaction data.
 
 ## Supported Networks
 - Ethereum
